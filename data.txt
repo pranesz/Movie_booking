@@ -1,21 +1,3 @@
-
-            Name: kalsi
-            Email: pranesh.kk.it.2020@snsce.ac.in
-            Movie: The Matrix
-            Date and Time: 2024-06-26 16:43:50
-            -------------------------
-            
-            Name: pranehs
-            Email: praneshpranesh648@gmail.com
-            Movie: Interstellar
-            Price: 300
-            Date and Time: 2024-06-26 16:56:33
-            -------------------------
-            
-            Name: pra
-            Email: pra
-            Movie: Interstellar
-            Price: 300
-            Date and Time: 2024-06-26 17:11:13
-            -------------------------
+                                  "Your Datas can be stored here."
+                                     -------------------------
             
