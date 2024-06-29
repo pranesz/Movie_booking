@@ -70,7 +70,7 @@ def user_():
 
             # Send the ticket to user's email
             sender_email = "praneshpranesh648@gmail.com"
-            sender_password = "qoaa vssn sxoo rptq"
+            sender_password = "q"
             send_simple_email(sender_email, sender_password, Mail_id, subject, data_to_write)
 
             print("Booking Successfuly")
